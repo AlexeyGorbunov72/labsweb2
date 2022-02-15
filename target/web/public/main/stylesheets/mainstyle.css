@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    text-align: center;
+    justify-content: center;
+    height: auto;
+    margin-inline: auto;
+    line-height: 1.5em;
+    font-size: 1em;
+    font-family:'century gothic', arial, sans-serif;
+}
+
+main h2,
+.code_header,
+.success_header,
+.animal_header {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.swift,
+.success,
+.animal {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    align-items: center;
+}
+
+.success {
+    flex-direction: column;
+    text-align: center;
+    text-indent: 0;
+    letter-spacing: 2px;
+}
+
+.struck {
+    text-decoration: line-through;
+}
+
+main article h2 {
+    text-transform: uppercase;
+}
+
+.space {
+    white-space: pre-wrap;
+}
+
+.wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+main {
+    flex: 0 0 60%;
+}
+
+aside {
+    height: auto;
+    scrollbar-width: none;
+    flex: 0 0 20%;
+    background-color: aquamarine;
+    word-break: break-all;
+}
+
+.animal pre {
+    font-family: 'Courier', sans-serif;
+}
+
+.spinner-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.spinner {
+    font-size: 40px;
+}
+
+.error {
+    background-color: #ececec;
+    margin: 0 auto 30px;
+    padding: 40px;
+    color: #c21212;
+    text-align: center;
+}
+
+#slidr-img {
+    margin: 0 auto;
+    max-width: 80%;
+    height: 500px;
+}
+
+#slidr-img img {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.comment {
+    background-color: #ececec;
+    margin: 25px 0;
+    padding: 15px;
+}
+
+.comment__author {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    padding-bottom: 15px;
+    color: #519d7b;
+}
+
+.comment__name {
+    font-weight: 700;
+}
+
+.comment__content {
+    padding-top: 15px;
+}
+
+@media screen and (max-width: 1400px) {
+    aside:not(#slidr-img-breadcrumbs):not(#slidr-img-control) { display: none }
+    main { 
+        flex: 1 1 100%;
+        background-color: aqua;
+    }
+  }
+
+.verticale-wrapper {
+    display: flex;
+    flex-direction: column;
+    max-height: 60em;
+    overflow: auto;
+}
+.verticale-wrapper::-webkit-scrollbar {
+    display: none;
+}
+
+.element {
+    margin: 5px 10px 0 5px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.icu {
+    margin: 20px 0 0 0;
+}
+
+.icu a img {
+    box-shadow: 0px 0px 15px 10px #000;
+}
+
+.icu p{
+    text-align: center;
+    text-decoration: underline;
+}
+
+li {
+    list-style-type: none;
+}

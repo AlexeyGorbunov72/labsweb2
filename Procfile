@@ -1,0 +1,1 @@
+web: target/universal/stage/bin/labsweb -Dhttp.port=${PORT}

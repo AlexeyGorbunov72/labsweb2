@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/alekseigor/Developer/web/labsweb/target/scala-2.13/labsweb_2.13-1.0-SNAPSHOT-web-assets.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/stylesheets/list.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alekseigor/Developer/web/labsweb/public/stylesheets/list.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/stylesheets[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alekseigor/Developer/web/labsweb/public/stylesheets[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/images/Screenshot_3.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alekseigor/Developer/web/labsweb/public/images/Screenshot_3.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alekseigor/Developer/web/labsweb/public/images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/images/Screenshot_4.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alekseigor/Developer/web/labsweb/public/images/Screenshot_4.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/stylesheets/menubar.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alekseigor/Developer/web/labsweb/public/stylesheets/menubar.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/images/Screenshot_1.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alekseigor/Developer/web/labsweb/public/images/Screenshot_1.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/stylesheets/main.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alekseigor/Developer/web/labsweb/public/stylesheets/main.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/javascripts[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alekseigor/Developer/web/labsweb/public/javascripts[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/images/M--svXdOXqc.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alekseigor/Developer/web/labsweb/public/images/M--svXdOXqc.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/stylesheets/content2_style.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alekseigor/Developer/web/labsweb/public/stylesheets/content2_style.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/javascripts/list.js[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alekseigor/Developer/web/labsweb/public/javascripts/list.js[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/images/Screenshot_2.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alekseigor/Developer/web/labsweb/public/images/Screenshot_2.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/stylesheets/mainstyle.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alekseigor/Developer/web/labsweb/public/stylesheets/mainstyle.css[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
