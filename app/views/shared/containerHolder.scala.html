@@ -1,4 +1,4 @@
-@(title: String)(css: Html)(content: Html)
+@(title: String)(css: Html)(content: Html)(navigation: Html)
 
 <!DOCTYPE html>
 <html>
@@ -12,8 +12,9 @@
         <link rel="stylesheet" type="text/css" href="@routes.Assets.versioned("stylesheets/menubar.css")">
     </head>
     <body onunload="cleartids()">
-        @nav()
+        @navigation
         @content
         @footer()
     </body>
+    <script language="javascript" type="text/javascript" src="assets/javascripts/time.js"></script>
 </html>
