@@ -5,8 +5,12 @@ import play.api._
 import play.api.mvc._
 
 @Singleton
-class TableController @Inject()(val controllerComponents: ControllerComponents) extends BaseController {
+class TableController @Inject()(
+  val controllerComponents: ControllerComponents,
+  val navigationController: NavigationController
+  ) extends BaseController {
   def index() = Action { implicit request: Request[AnyContent] =>
-    Ok(views.html.table.view())
+    val nav = navigationController.makeView()
+    Ok(views.html.table.view(nav))
   }
 }
